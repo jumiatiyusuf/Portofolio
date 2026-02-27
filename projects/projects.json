@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Sistem Pakar Berbasis Web",
+    "desc": "Sistem pakar berbasis web berbasis Laravel untuk diagnosis kerusakan laptop sebagai proyek akademik.",
+    "image": "sistempakar",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Website warung makan",
+    "desc": "Website profil warung makan berbasis Laravel menggunakan PHP, MySQL, serta HTML, CSS, dan JavaScript.",
+    "image": "warungmakan",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "To Do List",
+    "desc": "Menggunakan PHP sebagai backend, MySQL sebagai basis data, serta HTML dan CSS untuk tampilan.",
+    "image": "todolist",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/YayaProject/To-Do-List/forks"
+    }
+  }
+  
+]
